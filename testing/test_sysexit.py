@@ -6,6 +6,3 @@ def f():
 def test_mytest():
     with pytest.raises(SystemExit):
         f()
-
-# What happens with systemExit when it runs?
-
