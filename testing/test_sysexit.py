@@ -6,7 +6,3 @@ def f():
 def test_mytest():
     with pytest.raises(SystemExit):
         f()
-
-# Adding text - still trying to figure this out
-
-def (steve)
